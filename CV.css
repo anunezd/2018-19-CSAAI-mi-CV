@@ -1,0 +1,68 @@
+body {
+ background-color: white;
+}
+
+h1 {
+ color: Navy;
+ text-align: center;
+}
+
+p {
+ text-align: right;
+}
+
+img {
+  float: left;
+}
+
+#div1 {
+
+    height: 200px;
+    width: auto;
+    background-color: DarkCyan;
+    color: white;
+    font-style: oblique;
+}
+
+#div2 {
+    height: auto;
+    width: auto;
+    background-color: DarkGray;
+    color: black;
+}
+
+#div3 {
+    height: auto;
+    width: auto;
+    background-color: DarkGray;
+}
+
+#div4 {
+    height: auto;
+    width: auto;
+    background-color: MediumPurple;
+    color: white;
+    font-family: "calibri", Garamond, 'Comic Sans';
+  }
+
+h3 {
+  background-color: Navy;
+  color: Gold;
+}
+
+#h33 {
+  background-color: DarkGray;
+  color: Navy;
+}
+
+#h43 {
+  color: Indigo;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
